@@ -44,6 +44,8 @@ while True:
 
 ## OUPUT
 ![c1](https://github.com/KavinilavanDK/2b_SLIDING_WINDOW_PROTOCOL/assets/144870429/c4aaa6f3-fe71-4d69-959f-56883573b91b)
+
+
 ![c1 1](https://github.com/KavinilavanDK/2b_SLIDING_WINDOW_PROTOCOL/assets/144870429/26b25c5f-f627-4a96-a195-066ae1fb3c81)
 
 ## RESULT
